@@ -20,6 +20,8 @@ public class SeleniumTest {
 		System.out.println("I am Radio Button code");
 		System.out.println("I am video button code");
 		System.out.println("I am Radio code");
+		System.out.println("I am Child Class");
+		System.out.println("I am Parent Class");
 	}
 	
 	
